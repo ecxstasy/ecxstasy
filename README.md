@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ecxstasy&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ecxstasy&theme=highcontrast&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ecxstasy&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=ecxstasy&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ecxstasy&theme=gotham&no-frame=false&no-bg=false&margin-w=4)
